@@ -1,6 +1,6 @@
 spring:
   application:
-    name: moil-backend-v1
+    name: backend-v1
 
 server:
   port: 8080
